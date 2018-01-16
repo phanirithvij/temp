@@ -1,4 +1,4 @@
 cd ../
-./startp.sh https://twist.moe/a/one-piece
-cd Anime/one-piece/
-./download.sh
+./startp.sh https://twist.moe/a/gitntama
+cd Anime/gintama
+ls
