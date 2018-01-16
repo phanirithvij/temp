@@ -3,3 +3,4 @@ cd ../
 cd Anime/gintama
 l
 ./download.sh
+ls
