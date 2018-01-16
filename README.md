@@ -1,5 +1,5 @@
 cd ../
-./startp.sh gitntama
+./startp.sh gintama
 cd Anime/gintama
 l
 ./download.sh
