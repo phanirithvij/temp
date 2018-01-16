@@ -1,0 +1,18 @@
+making it https://twist.moe/a/gintama/1
+Fetching info...
+Fetching succesful by CURL
+Creating gintama/list.txt
+copying download.sh to gintama
+Done
+Check the Anime folder
+Enjoy
+You like this anime?
+Me too!!
+gitauto.sh Added to animelist.txt
+output.txt Added to animelist.txt
+download.sh
+[HorribleSubs] Gintama - 001 [480p].mp4
+list.txt
+download.sh
+[HorribleSubs] Gintama - 001 [480p].mp4
+list.txt
