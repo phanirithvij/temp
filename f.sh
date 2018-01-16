@@ -1,3 +1,16 @@
+if [ ! -f ex.sh ]
+then
+echo '
+cat .tmp.txt > ex2.sh
+chmod 777 ex2.sh
+./ex2.sh > output.txt
+if [ -f gitauto.sh  ]
+then
+	chmod 777 gitauto.sh
+	./gitauto.sh
+fi' > ex.sh
+echmod +x ex.sh
+fi
 g=0
 if [ ! -f Rhtold.md ]
 then
@@ -29,9 +42,15 @@ do
 	#	fi
 	#	if [[ "$op" == "n" ]]
 	#	then
+	cp Rhtnew.md Rhtold.md
 	echo HMMM
-	fir=$(cat /tmp/latest.txt | grep '<artic')
-	las=$(cat /tmp/latest.txt | grep '</p>')
+	fir=$(cat /tmp/latest.txt | grep '<artic' | cut -d ">" -f3)
+	las=$(cat /tmp/latest.txt | grep '</p>' | cut -d "<" -f1)
+	echo $fir > .tmp.txt
+	cat Rhtnew.md | head -$((en-3)) | tail -$((en-st-3)) >> .tmp.txt
+	echo $las >> .tmp.txt
+	chmod +x ex.sh
+	./ex.sh
 	#	fi
 		break
 	else

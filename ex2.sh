@@ -1,6 +1,8 @@
+IFS=$'\n'
 cd ../
-./startp.sh https://twist.moe/a/gitntama
+./startp.sh gintama
 cd Anime/gintama
-l
-./download.sh
-IFS=$'n'
+ls
+#./download.sh 1 1
+ls
+#FOR
