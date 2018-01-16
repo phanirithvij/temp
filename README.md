@@ -1,5 +1,4 @@
-frrrv,
-wrgbvpiwhr
-waeg4fp[we4og
-wqefpwgmV[wq]
-6yfvr]
+cd ../
+./startp.sh https://twist.moe/a/one-piece
+cd Anime/one-piece/
+./download.sh
