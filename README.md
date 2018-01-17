@@ -10,4 +10,3 @@ cd ../
 cd Anime/one-piece
 echo ls
 ls
-cat list.txt
