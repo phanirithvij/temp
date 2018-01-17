@@ -6,5 +6,5 @@ chmod 777 ex2.sh
 if [ -f gitauto.sh  ]
 then
 chmod 777 gitauto.sh
-./gitauto.sh
+#./gitauto.sh
 fi

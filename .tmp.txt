@@ -1,4 +1,3 @@
-IFS=$'\n'
 cd ../
 ./startp.sh boku-no-pico
 cd Anime/

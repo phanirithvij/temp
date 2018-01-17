@@ -1,18 +1,13 @@
-making it https://twist.moe/a/gintama/1
+Creating boku-no-pico
+making it https://twist.moe/a/boku-no-pico/1
 Fetching info...
 Fetching succesful by CURL
-Creating gintama/list.txt
-copying download.sh to gintama
+Creating boku-no-pico/list.txt
+copying download.sh to boku-no-pico
 Done
 Check the Anime folder
 Enjoy
-You like this anime?
-Me too!!
-gitauto.sh Added to animelist.txt
-output.txt Added to animelist.txt
-download.sh
-[HorribleSubs] Gintama - 001 [480p].mp4
-list.txt
-download.sh
-[HorribleSubs] Gintama - 001 [480p].mp4
-list.txt
+boku-no-pico Added to animelist.txt
+boku-no-pico
+gintama
+hunter-x-hunter-2011

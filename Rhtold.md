@@ -39,7 +39,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="BBFE:54FE:181C6:287EB:5A5E440C" data-pjax-transient>
+  <meta name="request-id" content="F23D:5501:58E5E1:A96231:5A5F1912" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -49,7 +49,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="BBFE:54FE:181C6:287EB:5A5E440C" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="F23D:5501:58E5E1:A96231:5A5F1912" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -64,13 +64,13 @@
   <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="OGEwMzRiMTY0MjNmNDk0YjgzZGUwMjEwMjFlNWNmY2Q0ZGYwZDAyNjZkZDI5MjU1Y2M2ZWQ1NTVjYTI3NDliNXx7InJlbW90ZV9hZGRyZXNzIjoiMTQuMTM5LjgyLjYiLCJyZXF1ZXN0X2lkIjoiQkJGRTo1NEZFOjE4MUM2OjI4N0VCOjVBNUU0NDBDIiwidGltZXN0YW1wIjoxNTE2MTI3MjQ1LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="NDg1ODI2ZjY0MDI5ZTE1YzZmNjdmNDY5ZmJlYjgyN2JhOGRjZDc4MzA3N2NjYjI4OTg0YjM1ZjJlYzM5MjhkZnx7InJlbW90ZV9hZGRyZXNzIjoiMTQuMTM5LjgyLjYiLCJyZXF1ZXN0X2lkIjoiRjIzRDo1NTAxOjU4RTVFMTpBOTYyMzE6NUE1RjE5MTIiLCJ0aW1lc3RhbXAiOjE1MTYxODE3NzgsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS">
 
-  <meta name="html-safe-nonce" content="8ec1e4b910b575524f3591e184e30db9cbe945b2">
+  <meta name="html-safe-nonce" content="4540deb0a6261d75afbb497f46898745dfc8f128">
 
-  <meta http-equiv="x-pjax-version" content="2e04513b678626c93c969d0c86e8af8d">
+  <meta http-equiv="x-pjax-version" content="d06047e32110c2a63429eb24b13fac78">
   
 
       <link href="https://github.com/phanirithvij/temp/commits/master.atom" rel="alternate" title="Recent Commits to temp:master" type="application/atom+xml">
@@ -308,9 +308,9 @@
   <div class="repository-content ">
 
     
-  <a href="/phanirithvij/temp/blob/14bc54cad2535d43b4e172d28272a7793e3827eb/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/phanirithvij/temp/blob/f1a660b69983e24b8eadd30c51af34ce63f298e9/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:4805788815d0bfec5898438ab08a3815 -->
+  <!-- blob contrib key: blob_contributors:v21:c6105f3d7ceff33b61f846daf3c6c8eb -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -397,15 +397,15 @@
   
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/phanirithvij/temp/commit/14bc54cad2535d43b4e172d28272a7793e3827eb" data-pjax>
-          14bc54c
+        <a class="commit-tease-sha" href="/phanirithvij/temp/commit/f1a660b69983e24b8eadd30c51af34ce63f298e9" data-pjax>
+          f1a660b
         </a>
-        <relative-time datetime="2018-01-16T18:27:03Z">Jan 16, 2018</relative-time>
+        <relative-time datetime="2018-01-17T09:35:54Z">Jan 17, 2018</relative-time>
       </span>
       <div>
         <img alt="@phanirithvij" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/29627898?s=40&amp;v=4" width="20" />
         <a href="/phanirithvij" class="user-mention" rel="author">phanirithvij</a>
-          <a href="/phanirithvij/temp/commit/14bc54cad2535d43b4e172d28272a7793e3827eb" class="message" data-pjax="true" title="Updating">Updating</a>
+          <a href="/phanirithvij/temp/commit/f1a660b69983e24b8eadd30c51af34ce63f298e9" class="message" data-pjax="true" title="Fifi">Fifi</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -450,20 +450,22 @@
   </div>
 
   <div class="file-info">
-      7 lines (6 sloc)
+      9 lines (8 sloc)
       <span class="file-info-divider"></span>
-    63 Bytes
+    118 Bytes
   </div>
 </div>
 
     
   <div id="readme" class="readme blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="text"><p>cd ../
-./startp.sh gitntama
-cd Anime/gintama
-l
-./download.sh
-ls</p>
+./startp.sh boku-no-pico
+cd Anime/
+ls
+#./download.sh 1 1
+#FOR yuojxhccuc
+#jdifigkglgoogogigigiudu
+#vkchxhxpxc</p>
 </article>
   </div>
 
@@ -490,7 +492,7 @@ ls</p>
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.10798s from unicorn-3713003983-tzw28">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.10813s from unicorn-2849371341-4hq39">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -525,7 +527,7 @@ ls</p>
 
 
     <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/compat-2339acd4bcb939ffb8168786ea2970b341723088c55b776a8b58a99962692f05.js"></script>
-    <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-02920776e68ff3d8a92fedaed18330d138c2c201239ebfe4d1b25cbefebe9d1d.js"></script>
+    <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-80e9db6c62e331a6f9374ef6d66133b3a23f7cd196dd6d9b38c77924837a52b6.js"></script>
     
     <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-5b6f30e918ac3a67fab0ed33e6efbfd41e68ee83429d60000c5c04668c7477fb.js"></script>
     
