@@ -30,5 +30,5 @@ Check the Anime folder
 Enjoy
 You like this anime?
 Me too!!
-download.sh
-list.txt
+ls
+HOGAYA
