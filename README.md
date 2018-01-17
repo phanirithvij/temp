@@ -7,8 +7,5 @@ echo ls
 ls
 cd ../
 ./startp.sh one-piece
-cd Anime/one-piece
-echo ls
 ls
-echo HOGAYA
-echo HAPPT NOW?
+echo DONE
