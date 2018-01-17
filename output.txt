@@ -1,0 +1,18 @@
+making it https://twist.moe/a/bokunopico/1
+Fetching info...
+Fetching succesful by CURL
+Creating bokunopico/list.txt
+copying download.sh to bokunopico
+Done
+Check the Anime folder
+Enjoy
+You like this anime?
+Me too!!
+bokunopico
+boku-no-pico
+gintama
+hunter-x-hunter-2011
+bokunopico
+boku-no-pico
+gintama
+hunter-x-hunter-2011
