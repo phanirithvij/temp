@@ -18,11 +18,11 @@
 
 
 
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-3e3f370097e3a4bec29b24356300a7ba8316af25f4576ce2170d64678fee6d17.css" media="all" rel="stylesheet" />
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-cb4e745bdd1cd46849ac03658c2771e92f19ed52ca01d93d25563d95623e8782.css" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-63d382b7c748b0ca1b0b8772c6ac07942f39a78775d4716abded6fb8d6d8e544845848ef5f69e923c6e897cace3a187cd55e75ef1f78a58dd410b2e609b6673a.css" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-f8fdb60cff0b8b931a0fbab9ed7fd288db4ab05af5a99310d6503f0f5650b8332b4ed54c8dab22c027ce351be82acfb34824e9dbbde0ce768fd5ae3477d819c6.css" media="all" rel="stylesheet" />
   
   
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/site-e2f78def14631b7fd769bf918598cd7d437e67a706a2676aa466634d28ffaabd.css" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/site-7f35718b16060ae00fcabab9480872c8a8b09434e780d16432395e8b809142b82a36abe0a936f4cb1b56452e1e81cac5f197beaf0cbdbd149dc5d87d0514076a.css" media="all" rel="stylesheet" />
   
 
   <meta name="viewport" content="width=device-width">
@@ -39,7 +39,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="86AA:54FF:7E686F:C831A3:5A5F320A" data-pjax-transient>
+  <meta name="request-id" content="A76C:7542:A520FF:10746EA:5A5F47C1" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -49,7 +49,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="86AA:54FF:7E686F:C831A3:5A5F320A" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="A76C:7542:A520FF:10746EA:5A5F47C1" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -64,13 +64,13 @@
   <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZmEwYmYwOTJjYjM2NGVmZWMyYWY5MzI4YWY4NGRhNzVjYzM4MTk1OWU2YjU5MTM0ZWRkMTc1MzkyODhmNTBiNnx7InJlbW90ZV9hZGRyZXNzIjoiMTQuMTM5LjgyLjYiLCJyZXF1ZXN0X2lkIjoiODZBQTo1NEZGOjdFNjg2RjpDODMxQTM6NUE1RjMyMEEiLCJ0aW1lc3RhbXAiOjE1MTYxODgxNzEsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="N2E4M2Y1MWE5OTE2ZTViYjNlOTdjOWJjYjM0ZGFkMDYzYjE5YThmZWRhMjJkY2RjZWQ2OWM2OWMzMDRkNzU0Znx7InJlbW90ZV9hZGRyZXNzIjoiMTU3LjQ4LjcwLjgxIiwicmVxdWVzdF9pZCI6IkE3NkM6NzU0MjpBNTIwRkY6MTA3NDZFQTo1QTVGNDdDMSIsInRpbWVzdGFtcCI6MTUxNjE5MzczMCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS">
 
-  <meta name="html-safe-nonce" content="2221808f22deffa8095ba98199c1c2b4624371f1">
+  <meta name="html-safe-nonce" content="a29f03f5025f8445f87e593942473baab3515688">
 
-  <meta http-equiv="x-pjax-version" content="9d9c177e5bd45172f2a79258021e38f0">
+  <meta http-equiv="x-pjax-version" content="c7200be7a0c14e9f2146de47770a11c8">
   
 
       <link href="https://github.com/phanirithvij/temp/commits/master.atom" rel="alternate" title="Recent Commits to temp:master" type="application/atom+xml">
@@ -308,9 +308,9 @@
   <div class="repository-content ">
 
     
-  <a href="/phanirithvij/temp/blob/ec48e7c0ca3feef778d031ad4f5d69fccb1af81e/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/phanirithvij/temp/blob/67bdb91d69ed511e01829695139f86d01c48649b/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:297c3d5486063979667c3869920b9ed0 -->
+  <!-- blob contrib key: blob_contributors:v21:74e6d47345545f1916e7048399654bea -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -397,23 +397,26 @@
   
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/phanirithvij/temp/commit/c10cebd9347ff51be356b7787b168cc966d4195f" data-pjax>
-          c10cebd
+        <a class="commit-tease-sha" href="/phanirithvij/temp/commit/67bdb91d69ed511e01829695139f86d01c48649b" data-pjax>
+          67bdb91
         </a>
-        <relative-time datetime="2018-01-17T10:50:58Z">Jan 17, 2018</relative-time>
+        <relative-time datetime="2018-01-17T12:53:01Z">Jan 17, 2018</relative-time>
       </span>
       <div>
         <img alt="@phanirithvij" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/29627898?s=40&amp;v=4" width="20" />
         <a href="/phanirithvij" class="user-mention" rel="author">phanirithvij</a>
-          <a href="/phanirithvij/temp/commit/c10cebd9347ff51be356b7787b168cc966d4195f" class="message" data-pjax="true" title="Date">Date</a>
+          <a href="/phanirithvij/temp/commit/67bdb91d69ed511e01829695139f86d01c48649b" class="message" data-pjax="true" title="Happy now!!!!!">Happy now!!!!!</a>
       </div>
 
     <div class="commit-tease-contributors">
       <button type="button" class="btn-link muted-link contributors-toggle" data-facebox="#blob_contributors_box">
-        <strong>1</strong>
-         contributor
+        <strong>2</strong>
+         contributors
       </button>
-      
+          <a class="avatar-link tooltipped tooltipped-s" aria-label="phanirithvij" href="/phanirithvij/temp/commits/master/README.md?author=phanirithvij"><img alt="@phanirithvij" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/29627898?s=40&amp;v=4" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="invalid-email-address" href="/phanirithvij/temp/commits/master/README.md?author=invalid-email-address"><img alt="@invalid-email-address" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/148100?s=40&amp;v=4" width="20" /> </a>
+
+
     </div>
 
     <div id="blob_contributors_box" style="display:none">
@@ -422,6 +425,10 @@
           <li class="facebox-user-list-item">
             <img alt="@phanirithvij" height="24" src="https://avatars1.githubusercontent.com/u/29627898?s=48&amp;v=4" width="24" />
             <a href="/phanirithvij">phanirithvij</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@invalid-email-address" height="24" src="https://avatars3.githubusercontent.com/u/148100?s=48&amp;v=4" width="24" />
+            <a href="/invalid-email-address">invalid-email-address</a>
           </li>
       </ul>
     </div>
@@ -450,22 +457,28 @@
   </div>
 
   <div class="file-info">
-      9 lines (8 sloc)
+      15 lines (14 sloc)
       <span class="file-info-divider"></span>
-    87 Bytes
+    146 Bytes
   </div>
 </div>
 
     
   <div id="readme" class="readme blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="text"><p>cd ../
-./startp.sh bokunopico
-cd Anime/
+echo ls
 ls
-#./download.sh 1 1
-#FOR yuojxhcc
-#vkch
-date</p>
+./startp.sh gintama
+cd Anime/
+echo ls
+ls
+cd ../
+./startp.sh one-piece
+cd Anime/one-piece
+echo ls
+ls
+echo HOGAYA
+echo HAPPT NOW?</p>
 </article>
   </div>
 
@@ -492,7 +505,7 @@ date</p>
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.10097s from unicorn-1321596199-t20mz">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.07518s from unicorn-4190499474-dg9xd">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -526,10 +539,10 @@ date</p>
   </div>
 
 
-    <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/compat-2339acd4bcb939ffb8168786ea2970b341723088c55b776a8b58a99962692f05.js"></script>
-    <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-f45cdc349a0811c73e8b509e67ba0dd931aabc282844048e9c54eff1009de1fa.js"></script>
+    <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/compat-10e17a0dfaf36baf710c24acfed2f6377578ed2550e1e5cf3c0ae217be7eb1f1f38ef235525572cd91b3a9e812e858a45ddf3ae469cbb54a9b8a6175c32ff299.js"></script>
+    <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-2e94ed3c66d8555f8db9570edc592179343b714ef66914b6e7bbeeea8c9cf21d919879d79d014c3a77399cb9da85486bfd20053c7b557c527bd1c40b5c0607d6.js"></script>
     
-    <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-5b6f30e918ac3a67fab0ed33e6efbfd41e68ee83429d60000c5c04668c7477fb.js"></script>
+    <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-ef19d3aa36b6c4b9dc442e58b4be1fec716e2c0863feaf72e8ce41895cb9b7d76fd735e8467a838c4569dd1c0f0a1fb071ea52ad66cf4997839403faa7009d92.js"></script>
     
     
     

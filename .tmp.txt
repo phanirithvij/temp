@@ -1,7 +1,13 @@
 cd ../
-./startp.sh bokunopico
-cd Anime/
+echo ls
 ls
-#./download.sh 1 1
-#FOR yuojxhcc
-date
+./startp.sh gintama
+cd Anime/
+echo ls
+ls
+cd ../
+./startp.sh one-piece
+cd Anime/one-piece
+echo ls
+ls
+echo HAPPT NOW?
