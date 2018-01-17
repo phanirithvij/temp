@@ -1,8 +1,8 @@
 IFS=$'\n'
 cd ../
-./startp.sh boku-no-pico
+./startp.sh bokunopico
 cd Anime/
 ls
 #./download.sh 1 1
-#FOR yuojxhccuc
-#vkchxhxpxc
+#FOR yuojxhcc
+date
