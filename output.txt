@@ -31,4 +31,6 @@ Enjoy
 You like this anime?
 Me too!!
 ls
-HOGAYA
+download.sh
+list.txt
+HAPPT NOW?
