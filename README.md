@@ -4,4 +4,5 @@ cd Anime/
 ls
 #./download.sh 1 1
 #FOR yuojxhccuc
-#vkchxhxpx
+#vkch
+echo yep
