@@ -4,3 +4,5 @@ ls
 cd Anime/
 ls
 cd gintama
+ls
+cat list.txt
