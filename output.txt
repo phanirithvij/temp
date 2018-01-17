@@ -1,0 +1,33 @@
+ls
+Anime
+animelist.txt
+_config.yml
+download.sh
+list.sh
+README.md
+startp.sh
+temp
+making it https://twist.moe/a/gintama/1
+Fetching info...
+Fetching succesful by CURL
+Creating gintama/list.txt
+copying download.sh to gintama
+Done
+Check the Anime folder
+Enjoy
+You like this anime?
+Me too!!
+ls
+gintama
+one-piece
+making it https://twist.moe/a/one-piece/1
+Fetching info...
+Fetching succesful by CURL
+Creating one-piece/list.txt
+copying download.sh to one-piece
+Done
+Check the Anime folder
+Enjoy
+You like this anime?
+Me too!!
+DONE
