@@ -1,4 +1,3 @@
-Anime
 animelist.txt
 _config.yml
 download.sh
@@ -6,6 +5,7 @@ list.sh
 README.md
 startp.sh
 temp
+Creating gintama
 making it https://twist.moe/a/gintama/1
 Fetching info...
 Fetching succesful by CURL
@@ -14,8 +14,7 @@ copying download.sh to gintama
 Done
 Check the Anime folder
 Enjoy
-You like this anime?
-Me too!!
+gintama Added to animelist.txt
 gintama
 https://twist.moe/anime/gintama/[HorribleSubs] Gintama - 001 [480p].mp4
 https://twist.moe/anime/gintama/[HorribleSubs] Gintama - 002 [480p].mp4
