@@ -10,3 +10,4 @@ cd ../
 cd Anime/one-piece
 echo ls
 ls
+echo HOGAYA
