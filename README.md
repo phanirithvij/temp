@@ -6,4 +6,3 @@ ls
 #FOR yuojxhcc
 #vkch
 date
-ls 
