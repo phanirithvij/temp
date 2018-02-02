@@ -1,0 +1,79 @@
+#start
+
+total 12G
+-rwxrwxrwx. 1 phani.rithvij 201783  640 Feb  1 10:03 Downloader.sh
+-rw-r--r--. 1 phani.rithvij 201783  18K Feb  1 10:03 KissAnime Multi Downloader.user.js
+-rw-r--r--. 1 phani.rithvij 201783 6.5K Feb  1 11:17 list.txt
+-rwxrwxrwx. 1 phani.rithvij 201783   70 Feb  1 10:56 ll.sh
+-rw-r--r--. 1 phani.rithvij 201783 220M Feb  1 11:24 Soul_Eater_(Sub)_Episode_001.mp4
+-rw-r--r--. 1 phani.rithvij 201783 225M Feb  1 11:31 Soul_Eater_(Sub)_Episode_002.mp4
+-rw-r--r--. 1 phani.rithvij 201783 220M Feb  1 11:38 Soul_Eater_(Sub)_Episode_003.mp4
+-rw-r--r--. 1 phani.rithvij 201783 231M Feb  1 11:46 Soul_Eater_(Sub)_Episode_004.mp4
+-rw-r--r--. 1 phani.rithvij 201783 232M Feb  1 11:53 Soul_Eater_(Sub)_Episode_005.mp4
+-rw-r--r--. 1 phani.rithvij 201783 234M Feb  1 12:01 Soul_Eater_(Sub)_Episode_006.mp4
+-rw-r--r--. 1 phani.rithvij 201783 220M Feb  1 12:08 Soul_Eater_(Sub)_Episode_007.mp4
+-rw-r--r--. 1 phani.rithvij 201783 219M Feb  1 12:15 Soul_Eater_(Sub)_Episode_008.mp4
+-rw-r--r--. 1 phani.rithvij 201783 228M Feb  1 12:22 Soul_Eater_(Sub)_Episode_009.mp4
+-rw-r--r--. 1 phani.rithvij 201783 233M Feb  1 12:30 Soul_Eater_(Sub)_Episode_010.mp4
+-rw-r--r--. 1 phani.rithvij 201783 220M Feb  1 12:37 Soul_Eater_(Sub)_Episode_011.mp4
+-rw-r--r--. 1 phani.rithvij 201783 225M Feb  1 12:44 Soul_Eater_(Sub)_Episode_012.mp4
+-rw-r--r--. 1 phani.rithvij 201783 224M Feb  1 12:51 Soul_Eater_(Sub)_Episode_013.mp4
+-rw-r--r--. 1 phani.rithvij 201783 217M Feb  1 12:58 Soul_Eater_(Sub)_Episode_014.mp4
+-rw-r--r--. 1 phani.rithvij 201783 226M Feb  1 13:06 Soul_Eater_(Sub)_Episode_015.mp4
+-rw-r--r--. 1 phani.rithvij 201783 212M Feb  1 13:13 Soul_Eater_(Sub)_Episode_016.mp4
+-rw-r--r--. 1 phani.rithvij 201783 214M Feb  1 13:19 Soul_Eater_(Sub)_Episode_017.mp4
+-rw-r--r--. 1 phani.rithvij 201783 225M Feb  1 13:27 Soul_Eater_(Sub)_Episode_018.mp4
+-rw-r--r--. 1 phani.rithvij 201783 225M Feb  1 13:34 Soul_Eater_(Sub)_Episode_019.mp4
+-rw-r--r--. 1 phani.rithvij 201783 222M Feb  1 13:42 Soul_Eater_(Sub)_Episode_020.mp4
+-rw-r--r--. 1 phani.rithvij 201783 207M Feb  1 13:49 Soul_Eater_(Sub)_Episode_021.mp4
+-rw-r--r--. 1 phani.rithvij 201783 221M Feb  1 13:56 Soul_Eater_(Sub)_Episode_022.mp4
+-rw-r--r--. 1 phani.rithvij 201783 232M Feb  1 14:04 Soul_Eater_(Sub)_Episode_023.mp4
+-rw-r--r--. 1 phani.rithvij 201783 217M Feb  1 14:11 Soul_Eater_(Sub)_Episode_024.mp4
+-rw-r--r--. 1 phani.rithvij 201783 229M Feb  1 14:18 Soul_Eater_(Sub)_Episode_025.mp4
+-rw-r--r--. 1 phani.rithvij 201783 237M Feb  1 14:26 Soul_Eater_(Sub)_Episode_026.mp4
+-rw-r--r--. 1 phani.rithvij 201783 218M Feb  1 14:33 Soul_Eater_(Sub)_Episode_027.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Feb  1 14:40 Soul_Eater_(Sub)_Episode_028.mp4
+-rw-r--r--. 1 phani.rithvij 201783 233M Feb  1 14:47 Soul_Eater_(Sub)_Episode_029.mp4
+-rw-r--r--. 1 phani.rithvij 201783 208M Feb  1 14:54 Soul_Eater_(Sub)_Episode_030.mp4
+-rw-r--r--. 1 phani.rithvij 201783 225M Feb  1 15:02 Soul_Eater_(Sub)_Episode_031.mp4
+-rw-r--r--. 1 phani.rithvij 201783 217M Feb  1 15:09 Soul_Eater_(Sub)_Episode_032.mp4
+-rw-r--r--. 1 phani.rithvij 201783 240M Feb  1 15:18 Soul_Eater_(Sub)_Episode_033.mp4
+-rw-r--r--. 1 phani.rithvij 201783 225M Feb  1 15:25 Soul_Eater_(Sub)_Episode_034.mp4
+-rw-r--r--. 1 phani.rithvij 201783 217M Feb  1 15:33 Soul_Eater_(Sub)_Episode_035.mp4
+-rw-r--r--. 1 phani.rithvij 201783 219M Feb  1 15:40 Soul_Eater_(Sub)_Episode_036.mp4
+-rw-r--r--. 1 phani.rithvij 201783 226M Feb  1 15:47 Soul_Eater_(Sub)_Episode_037.mp4
+-rw-r--r--. 1 phani.rithvij 201783 232M Feb  1 15:55 Soul_Eater_(Sub)_Episode_038.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Feb  1 16:02 Soul_Eater_(Sub)_Episode_039.mp4
+-rw-r--r--. 1 phani.rithvij 201783 248M Feb  1 16:10 Soul_Eater_(Sub)_Episode_040.mp4
+-rw-r--r--. 1 phani.rithvij 201783 242M Feb  1 16:18 Soul_Eater_(Sub)_Episode_041.mp4
+-rw-r--r--. 1 phani.rithvij 201783 249M Feb  1 16:26 Soul_Eater_(Sub)_Episode_042.mp4
+-rw-r--r--. 1 phani.rithvij 201783 239M Feb  1 16:34 Soul_Eater_(Sub)_Episode_043.mp4
+-rw-r--r--. 1 phani.rithvij 201783 224M Feb  1 16:41 Soul_Eater_(Sub)_Episode_044.mp4
+-rw-r--r--. 1 phani.rithvij 201783 240M Feb  1 16:49 Soul_Eater_(Sub)_Episode_045.mp4
+-rw-r--r--. 1 phani.rithvij 201783 245M Feb  1 16:57 Soul_Eater_(Sub)_Episode_046.mp4
+-rw-r--r--. 1 phani.rithvij 201783 262M Feb  1 17:06 Soul_Eater_(Sub)_Episode_047.mp4
+-rw-r--r--. 1 phani.rithvij 201783 228M Feb  1 17:13 Soul_Eater_(Sub)_Episode_048.mp4
+-rw-r--r--. 1 phani.rithvij 201783 233M Feb  1 17:22 Soul_Eater_(Sub)_Episode_049.mp4
+-rw-r--r--. 1 phani.rithvij 201783 238M Feb  1 17:30 Soul_Eater_(Sub)_Episode_050.mp4
+-rw-r--r--. 1 phani.rithvij 201783 220M Feb  1 17:38 Soul_Eater_(Sub)_Episode_051.mp4
+8.0K	./.git/logs/refs/heads
+8.0K	./.git/logs/refs/remotes/origin
+12K	./.git/logs/refs/remotes
+24K	./.git/logs/refs
+32K	./.git/logs
+8.0K	./.git/info
+44K	./.git/hooks
+4.0K	./.git/refs/tags
+8.0K	./.git/refs/heads
+8.0K	./.git/refs/remotes/origin
+12K	./.git/refs/remotes
+28K	./.git/refs
+4.0K	./.git/objects/info
+8.0K	./.git/objects/9c
+27M	./.git/objects/pack
+8.0K	./.git/objects/8e
+27M	./.git/objects
+4.0K	./.git/branches
+27M	./.git
+12G	.
+#Git sucessful
